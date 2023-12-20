@@ -1,0 +1,85 @@
+Effect of Markdown in Sales during Holidays
+
+1. Sum of Total Sales (with and without markdown) - 505,299,552
+
+2. Sum of Total Sales (without markdown) - 210,975,534
+
+3. Sum of Total Sales (with markdown) - 294,324,018
+
+4. Top 10 Stores with Higher Sales (without markdown)
+ 
+   * 20 (12,997,365)
+   * 4 (12,919,453)
+   * 14 (12,624,561)
+   * 10 (12,329,791)
+   * 2 (12,302,140)
+   * 13 (12,062,130)
+   * 27 (11,275,427)
+   * 6 (9,732,506)
+   * 1 (9,662,448)
+   * 19 (9,394,082)
+
+Total - 115,299,904 - 54.65 %
+
+5. Top 10 Stores with Higher Sales (with markdown)
+
+   * 4 (9,511,574)
+   * 20 (9,492,986)
+   * 13 (9,068,308)
+   * 10 (8,807,768)
+   * 14 (8,581,269)
+   * 2 (8,490,529)
+   * 27 (7,647,566)
+   * 6 (7,076,573)
+   * 1 (6,995,028)
+   * 39 (6,928,772)
+
+Total - 82,600,373 - 28 %
+
+6. Top 10 Departments by Total Sales (without markdown)
+
+   * 72 - 22,448,235
+   * 92 - 20,652,109
+   * 95 - 17,943,146
+   * 38 - 15,315,989
+   * 90 - 12,333,507
+   * 40 - 11,931,268
+   * 2 - 11,161,693
+   * 91 - 9,025,979
+   * 13 - 8,156,272
+   * 5 - 8,008,617
+
+Total - 136,975,814 -  64.92 %
+
+7. Top 10 Departments by Total Sales (with markdown)
+
+   * 72 - 17,865,371
+   * 92 - 15,044,288
+   * 95 - 12,053,088
+   * 38 - 10,366,256
+   * 90 - 8,875,621
+   * 40 - 8,059,841
+   * 2 - 7,829,776
+   * 7 - 6,449,107
+   * 5 - 6,338,746
+   * 91 - 5,983,542
+
+Total - 98,865,636 - 33.59 %
+
+8. Total Sales by Year and month (with and without markdown)
+
+   * 2010 - 200,224,598
+   * 2011 - 206,735,487
+   * 2012 - 98,339,467
+
+9. Total Sales by Year and month (without markdown)
+
+   * 2010 - 200,224,598
+   * 2011 - 94,099,420
+
+10. Total Sales by Year and month (with markdown)
+
+   * 2011 - 112,636,066
+   * 2012 - 98,339,467
+
+
